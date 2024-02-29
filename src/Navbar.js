@@ -1,7 +1,7 @@
 import React from 'react';
 import { Navbar, Nav } from 'react-bootstrap';
 
-const MyNavbar = () => {
+const NavbarComponent = () => {
   return (
     <Navbar bg="light" expand="lg">
       <Navbar.Brand href="#home">Your Brand</Navbar.Brand>
