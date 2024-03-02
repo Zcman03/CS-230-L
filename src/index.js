@@ -7,6 +7,7 @@ import "bootstrap/dist/css/bootstrap.css";
 import NavbarComponent from './Navbar';
 import CardComponent from './Card';
 
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
